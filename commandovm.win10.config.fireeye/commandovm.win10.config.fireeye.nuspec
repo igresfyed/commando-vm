@@ -9,7 +9,7 @@
     <dependencies>
       <dependency id="common.fireeye" />
       <dependency id="syspin" />
-      <dependency id="autohotkey.portable" />
+      <dependency id="autohotkey.portable" /> 
     </dependencies>
   </metadata>
 </package>
